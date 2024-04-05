@@ -49,7 +49,11 @@ void LinearSearch()
                 break;
             }
             i++;
+
         }
+        if (i == 0)
+            cout << "\n" << item << " not found in the array\n";
+       
     } while;
 
 }
