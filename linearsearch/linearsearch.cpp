@@ -27,6 +27,12 @@ void input()
     }
 }
 
+void LinearSearch()
+{
+    
+
+}
+
 int main()
 {
     std::cout << "Hello World!\n";
